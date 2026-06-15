@@ -22,8 +22,8 @@ body {
     width: 90%;
     max-width: 1200px;
     margin: auto;
-    margin-top: 20px;
-    padding: 20px;
+    margin-top: 10px;
+    padding: 10px;
     border-radius: 15px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.159);
     background: linear-gradient(rgba(26, 7, 7, 0.821), rgba(103, 2, 2, 0.158)), url("img/backgroundimage.png");
@@ -155,7 +155,7 @@ img {
 }
 
 img:hover {
-    transform: scale(1.1);
+    transform: scale(1.02);
     transition: 0.5s;
 }
 
